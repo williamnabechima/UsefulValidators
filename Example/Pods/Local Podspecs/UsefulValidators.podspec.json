@@ -1,0 +1,22 @@
+{
+  "name": "UsefulValidators",
+  "version": "0.1.0",
+  "summary": "A short description of UsefulValidators.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/william.nabechima@kanamobi.com.br/UsefulValidators",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "william.nabechima@kanamobi.com.br": "william.nabechima@kanamobi.com.br"
+  },
+  "source": {
+    "git": "https://github.com/william.nabechima@kanamobi.com.br/UsefulValidators.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UsefulValidators/Classes/**/*"
+}

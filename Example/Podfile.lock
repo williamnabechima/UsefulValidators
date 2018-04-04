@@ -1,0 +1,16 @@
+PODS:
+  - UsefulValidators (0.1.0)
+
+DEPENDENCIES:
+  - UsefulValidators (from `../`)
+
+EXTERNAL SOURCES:
+  UsefulValidators:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UsefulValidators: 4c73ec984dfe336d1f43f47d89dfc0a26698ef35
+
+PODFILE CHECKSUM: 396ff2940c8113ec730f8d483e598b98699c578b
+
+COCOAPODS: 1.4.0
